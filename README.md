@@ -10,5 +10,5 @@
 
 *Example:* 
 ```
-cat testfile.txt | ruby simple_array_sum.rb
+cat testfile.txt | ruby caesar_cypher.rb
 ```
